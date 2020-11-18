@@ -1,6 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=CustomEntity&theme=onedark)](https://github.com/CustomEntity)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=customentity&show_icons=true&theme=monokai&locale=en&layout=compact" alt="customentity" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=customentity&show_icons=true&theme=monokai&locale=en" alt="customentity" /></p>
 
 
