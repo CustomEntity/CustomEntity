@@ -1,5 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CustomEntity&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
+![alt text](https://github.com/CustomEntity/CustomEntity/blob/main/header.png)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=CustomEntity&theme=blue-green)
 
