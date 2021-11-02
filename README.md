@@ -1,5 +1,16 @@
 ![alt text](https://github.com/CustomEntity/CustomEntity/blob/main/header.png)
 
+### <div align="center">Young Developer with a passion for discovering new technologies 💻 Great lover of open source projects ✨</div>  
+  
+
+- 📖 I’m currently studying at [Epitech](https://www.epitech.eu)  
+  
+
+- 💠 I’m currently learning C and Ruby  
+  
+
+<br/>  
+
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=CustomEntity&theme=blue-green)
 
 
