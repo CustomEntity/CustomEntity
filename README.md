@@ -1,58 +1,47 @@
-![alt text](https://github.com/CustomEntity/CustomEntity/blob/main/header.png)
+# <img src="assets/log.png" width="64px" align="top"> Hello, World!
 
-### <div align="center">Young Developer with a passion for discovering new technologies 💻 Great lover of open source projects ✨</div>  
-  
+My name is [Flavio Moreno](https://www.linkedin.com/in/flaviomoreno94/), I am a 18 yo French student learning
+[Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/)
+Web Development, and a [Pythonista](https://www.linkedin.com/pulse/what-pythonistas-aakash-padhiyar). <br> 
+Started Coding by age of 13 with the [java](https://www.java.com/) programming language.
 
-- 📖 I’m currently studying at [Epitech](https://www.epitech.eu)  
-  
-
-- 💠 I’m currently learning C and Scala  
-  
-
-<br/>  
-
-## 👨‍💻 My Skills
-<table><tr><td valign="top" width="33%">
+I enjoy learning new things to become a better developer, always improving my code and my workflow.<br>
+I believe in [Open-source](https://en.wikipedia.org/wiki/Open_source) and use [Ubuntu](https://ubuntu.com/download) as my
+current operating system.
 
 
+Know more about myself by taking a look over my [repositories](https://github.com/CustomEntity?tab=repositories) and
+projects.
 
-### Languages  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-</div>
+#
 
-</td><td valign="top" width="33%">
+<img src="assets/log.png" align="right" width="280">
 
+> **Languages I know, love & use**
 
+<div>
+<img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" width="22px" />  
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="22px" />  
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="22px" />  
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="22px" />  
+<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="22px" />  
+<img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" width="22px" />  
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="22px" />  
+<img src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" width="22px" />  
+<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="22px" />  
+<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="22px" />  
+<img src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" width="22px" />  
+<img src="assets/crystal.png" alt="Crystal" width="22px" />  
 
-### Database  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
-</div>
+<br>
+<img src="assets/icons/archlinux.svg" width="22px">
+<img src="assets/icons/figma.svg" width="22px">
+<img src="assets/icons/firefox.svg" width="22px">
+<img src="assets/icons/editorconfig.svg" width="22px">
+<img src="assets/icons/gimp.svg" width="22px">
+<img src="assets/icons/codecov.svg" width="22px">
+<img src="assets/icons/makefile.svg" width="22px">
 
-</td><td valign="top" width="33%">
+<br><br>
 
-
-
-### Tools & API  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=CustomEntity&theme=blue-green)
+> **Technologies & Tools**
