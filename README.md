@@ -65,4 +65,4 @@ Currently, my biggest project is [crNormz](https://github.com/CustomEntity/crNor
 the respect of the code style imposed by the [Epitech](https://www.epitech.eu) school. It is currently the most powerful, reliable and precise 
 program that has ever been made.
 
-I have contributed to `52` repositories, opened `2` pull requests & `3` issues!
+I have contributed to `52` repositories, opened `12` pull requests & `1` issues!
