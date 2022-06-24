@@ -67,4 +67,4 @@ program that has ever been made.
 
 I have contributed to `52` repositories, opened `12` pull requests & `1` issues!
 
-![](assets/code.svg)
+![](assets/code2.svg)
