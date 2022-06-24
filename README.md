@@ -1,3 +1,5 @@
+![](assets/code2.svg)
+
 # <img src="assets/log.png" width="64px" align="top"> Hello, World!
 
 My name is [Flavio Moreno](https://www.linkedin.com/in/flaviomoreno94/), I am a 18 yo French student learning
@@ -66,5 +68,3 @@ the respect of the code style imposed by the [Epitech](https://www.epitech.eu) s
 program that has ever been made.
 
 I have contributed to `52` repositories, opened `12` pull requests & `1` issues!
-
-![](assets/code2.svg)
