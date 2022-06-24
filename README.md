@@ -1,8 +1,7 @@
 # <img src="assets/log.png" width="64px" align="top"> Hello, World!
 
 My name is [Flavio Moreno](https://www.linkedin.com/in/flaviomoreno94/), I am a 18 yo French student learning
-[Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/)
-Web Development, and a [Pythonista](https://www.linkedin.com/pulse/what-pythonistas-aakash-padhiyar). <br> 
+[Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/), and a great lover of [Jetbrains](https://jetbrains.com/) software. <br> 
 Started Coding by age of 13 with the [java](https://www.java.com/) programming language.
 
 I enjoy learning new things to become a better developer, always improving my code and my workflow.<br>
@@ -22,7 +21,7 @@ projects.
 <div>
 <img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" width="22px" />  
 <img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="22px" />  
-<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="22px" />  
+<img style="margin: 2px" src="assets/shell.svg" alt="Bash" width="22px" />  
 <img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="22px" />
 <img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="22px" />  
 <img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="22px" />  
@@ -49,9 +48,21 @@ projects.
 <img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" width="22px" />  
 <img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" width="22px" />  
 <img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="22px" />  
 </div>
 
 #
 
 <br>
 
+
+I dedicate part of my time to help beginners on community discords to find a way in this wild world of programming.
+
+I am currently a student at [Epitech](https://www.epitech.eu), in my second year, where I am learning C, C++, Haskell 
+and many other great things.  I plan to find a job after my studies and then start my own enterprise.
+
+Currently, my biggest project is [crNormz](https://github.com/CustomEntity/crNormz), a program developed in [Crystal](https://crystal-lang.org/) which aims to verify 
+the respect of the code style imposed by the [Epitech](https://www.epitech.eu) school. It is currently the most powerful, reliable and precise 
+program that has ever been made.
+
+I have contributed to `52` repositories, opened `2` pull requests & `3` issues!
