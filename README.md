@@ -20,28 +20,38 @@ projects.
 > **Languages I know, love & use**
 
 <div>
-<img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" width="22px" />  
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="22px" />  
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="22px" />  
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="22px" />  
-<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="22px" />  
-<img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" width="22px" />  
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="22px" />  
-<img src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" width="22px" />  
-<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="22px" />  
-<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="22px" />  
-<img src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" width="22px" />  
-<img src="assets/crystal.png" alt="Crystal" width="22px" />  
-
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="22px" />
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="22px" />  
 <br>
-<img src="assets/icons/archlinux.svg" width="22px">
-<img src="assets/icons/figma.svg" width="22px">
-<img src="assets/icons/firefox.svg" width="22px">
-<img src="assets/icons/editorconfig.svg" width="22px">
-<img src="assets/icons/gimp.svg" width="22px">
-<img src="assets/icons/codecov.svg" width="22px">
-<img src="assets/icons/makefile.svg" width="22px">
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" width="22px" />  
+<img style="margin: 2px" src="assets/crystal.png" alt="Crystal" width="22px" />
 
 <br><br>
 
-> **Technologies & Tools**
+> **Technologies, Frameworks & Tools**
+
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" width="22px" />  
+<img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" width="22px" />  
+</div>
+
+#
+
+<br>
+
