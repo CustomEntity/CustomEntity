@@ -14,7 +14,7 @@ projects.
 
 #
 
-<img src="assets/log.png" align="right" width="350">
+<img src="assets/log.png" align="right" width="520">
 
 > **Languages I know, love & use**
 
