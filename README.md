@@ -63,7 +63,7 @@ I dedicate part of my time to help beginners on community discords to find a way
 I am currently a student at [Epitech](https://www.epitech.eu), in my second year, where I am learning C, C++, Haskell 
 and many other great things.  I plan to find a job after my studies and then start my own enterprise.
 
-Currently, my biggest project is [crNormz](https://github.com/CustomEntity/crNormz), a program developed in [Crystal](https://crystal-lang.org/) which aims to verify 
+Currently, my biggest project is [Jolssy](https://discord.gg/NsenQSTA5r), it aims at gathering all the features that a discord server administrator would need to manage his server. Then my second biggest project is [crNormz](https://github.com/CustomEntity/crNormz), a program developed in [Crystal](https://crystal-lang.org/) which aims to verify 
 the respect of the code style imposed by the [Epitech](https://www.epitech.eu) school. It is currently the most powerful, reliable and precise 
 program that has ever been made.
 
