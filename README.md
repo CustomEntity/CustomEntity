@@ -53,9 +53,20 @@ projects.
 <img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="22px" />  
 </div>
 
-#
+<br><br>
+
+> **My projects**
+
+- https://valodle.eu/
+- https://alldle.net/
+- https://fortnitedle.net/
+- https://rivalsdle.net/
+- https://zeldadle.net/
+- https://schedule1wiki.org/
+- https://rematchtracker.com/
 
 <br>
+
 
 
 I dedicate part of my time to help beginners on community discords to find a way in this wild world of programming.
