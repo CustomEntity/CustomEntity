@@ -2,7 +2,7 @@
 
 # <img src="assets/log.png" width="64px" align="top"> Hello, World!
 
-My name is [Flavio Moreno](https://www.linkedin.com/in/flaviomoreno94/), I am a 18 yo French student learning
+My name is [Flavio Moreno](https://www.linkedin.com/in/flaviomoreno94/), I am a 21 yo French student learning
 [Full Stack](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/), and a great lover of [Jetbrains](https://jetbrains.com/) software. <br> 
 Started Coding by age of 13 with the [java](https://www.java.com/) programming language.
 
@@ -60,13 +60,4 @@ projects.
 
 I dedicate part of my time to help beginners on community discords to find a way in this wild world of programming.
 
-I am currently a student at [Epitech](https://www.epitech.eu), in my second year, where I am learning C, C++, Haskell 
-and many other great things.  I plan to find a job after my studies and then start my own enterprise.
-
-Currently, my biggest project is [Jolssy](https://discord.gg/NsenQSTA5r), it aims at gathering all the features that a discord server administrator would need to manage his server. Then my second biggest project is [crNormz](https://github.com/CustomEntity/crNormz), a program developed in [Crystal](https://crystal-lang.org/) which aims to verify 
-the respect of the code style imposed by the [Epitech](https://www.epitech.eu) school. It is currently the most powerful, reliable and precise 
-program that has ever been made.
-
 I have contributed to `52` repositories, opened `12` pull requests & `1` issues!
-
-> *original readme by [Sigma](https://github.com/Sigmanificient/Sigmanificient)*
